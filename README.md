@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # Face-Mask-Detector
 A machine learning based application that tells whether a person is wearing a mask or not.
 
